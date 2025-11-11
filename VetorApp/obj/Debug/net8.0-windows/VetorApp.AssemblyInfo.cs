@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VetorApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bebec5f4d11e0299051dd759278db754dd0c78dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("VetorApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VetorApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

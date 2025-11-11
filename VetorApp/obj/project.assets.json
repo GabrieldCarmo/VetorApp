@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabri\\OneDrive\\Documentos\\projetos\\C#\\VetorApp\\VetorApp\\VetorApp.csproj",
+      "projectUniqueName": "C:\\Users\\Gabri\\OneDrive\\Documentos\\projetos\\ETEC\\TPA\\VetorApp\\VetorApp\\VetorApp.csproj",
       "projectName": "VetorApp",
-      "projectPath": "C:\\Users\\Gabri\\OneDrive\\Documentos\\projetos\\C#\\VetorApp\\VetorApp\\VetorApp.csproj",
+      "projectPath": "C:\\Users\\Gabri\\OneDrive\\Documentos\\projetos\\ETEC\\TPA\\VetorApp\\VetorApp\\VetorApp.csproj",
       "packagesPath": "C:\\Users\\Gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabri\\OneDrive\\Documentos\\projetos\\C#\\VetorApp\\VetorApp\\obj\\",
+      "outputPath": "C:\\Users\\Gabri\\OneDrive\\Documentos\\projetos\\ETEC\\TPA\\VetorApp\\VetorApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

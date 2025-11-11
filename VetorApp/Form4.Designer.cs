@@ -59,6 +59,7 @@
             btnsair.TabIndex = 22;
             btnsair.Text = "Sair";
             btnsair.UseVisualStyleBackColor = true;
+            btnsair.Click += btnsair_Click;
             // 
             // lblB
             // 

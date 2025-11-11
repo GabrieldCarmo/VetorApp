@@ -91,5 +91,12 @@ namespace VetorApp
             txtA.Clear();
             txtnum.Focus();
         }
+
+        private void btnsair_Click(object sender, EventArgs e)
+        {
+            Hide();
+            frmmenu menu = new frmmenu();
+            menu.Show();
+        }
     }
 }
