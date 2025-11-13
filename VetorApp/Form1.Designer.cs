@@ -34,6 +34,7 @@
             programa2ToolStripMenuItem = new ToolStripMenuItem();
             programa3ToolStripMenuItem = new ToolStripMenuItem();
             sairToolStripMenuItem = new ToolStripMenuItem();
+            label1 = new Label();
             menuStrip1.SuspendLayout();
             SuspendLayout();
             // 
@@ -81,11 +82,22 @@
             sairToolStripMenuItem.Text = "Sair";
             sairToolStripMenuItem.Click += sairToolStripMenuItem_Click;
             // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label1.Location = new Point(28, 52);
+            label1.Name = "label1";
+            label1.Size = new Size(186, 21);
+            label1.TabIndex = 1;
+            label1.Text = "Gabriel do Carmo Felipe";
+            // 
             // frmmenu
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(label1);
             Controls.Add(menuStrip1);
             MainMenuStrip = menuStrip1;
             Name = "frmmenu";
@@ -105,5 +117,6 @@
         private ToolStripMenuItem programa1ToolStripMenuItem;
         private ToolStripMenuItem programa2ToolStripMenuItem;
         private ToolStripMenuItem programa3ToolStripMenuItem;
+        private Label label1;
     }
 }

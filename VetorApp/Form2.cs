@@ -53,7 +53,7 @@ namespace VetorApp
                         {
                             txtB.AppendText(B[i].ToString() + "\r\n");
                         }
-                        MessageBox.Show("Os vetores A foram completamente preenchidos!");
+                        MessageBox.Show("O vetor foi completamente preenchido!");
 
                         indice = 0;
                     }
